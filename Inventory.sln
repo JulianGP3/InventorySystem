@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Api", "Inventory\Inventory.Api.csproj", "{001180E8-B42F-483D-9CA9-0146C8D60D05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Api", "1.Api", "{51E71F96-706F-4789-97E3-07AB0FEE1BF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Core", "2.Core", "{4EB6876A-2D7B-4F36-8940-B204F6EC7483}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Core", "Inventory.Core\Inventory.Core.csproj", "{F3DC2B7F-FFCC-424E-ABFD-2163D4124060}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.DataAccess", "3.DataAccess", "{BDBF9206-5A22-42FA-92CB-A6F851CC1DA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Data", "Inventory.Data\Inventory.Data.csproj", "{5E8F2058-14DC-4756-89E8-8BA7EB9DC5A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infrastructure", "4.Infrastructure", "{A9B20A5A-E9E2-4A7A-A996-3515498FED89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Infrastructure", "Inventory.Infrastructure\Inventory.Infrastructure.csproj", "{869BFD17-8CE1-4A2F-A876-A01155336945}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Tests", "5.Tests", "{BF9256E6-4071-478A-A83C-9E5A7E8EC772}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Tests", "Inventory.Tests\Inventory.Tests.csproj", "{B120D9C4-8DDB-465E-9CE0-5CE430FC4042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Models", "Inventory.Models\Inventory.Models.csproj", "{0EDAC8C2-FA06-4A9E-9296-3F28359C0490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001180E8-B42F-483D-9CA9-0146C8D60D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001180E8-B42F-483D-9CA9-0146C8D60D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001180E8-B42F-483D-9CA9-0146C8D60D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001180E8-B42F-483D-9CA9-0146C8D60D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DC2B7F-FFCC-424E-ABFD-2163D4124060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DC2B7F-FFCC-424E-ABFD-2163D4124060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DC2B7F-FFCC-424E-ABFD-2163D4124060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DC2B7F-FFCC-424E-ABFD-2163D4124060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8F2058-14DC-4756-89E8-8BA7EB9DC5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8F2058-14DC-4756-89E8-8BA7EB9DC5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8F2058-14DC-4756-89E8-8BA7EB9DC5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8F2058-14DC-4756-89E8-8BA7EB9DC5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869BFD17-8CE1-4A2F-A876-A01155336945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869BFD17-8CE1-4A2F-A876-A01155336945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869BFD17-8CE1-4A2F-A876-A01155336945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869BFD17-8CE1-4A2F-A876-A01155336945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B120D9C4-8DDB-465E-9CE0-5CE430FC4042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B120D9C4-8DDB-465E-9CE0-5CE430FC4042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B120D9C4-8DDB-465E-9CE0-5CE430FC4042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B120D9C4-8DDB-465E-9CE0-5CE430FC4042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDAC8C2-FA06-4A9E-9296-3F28359C0490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDAC8C2-FA06-4A9E-9296-3F28359C0490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDAC8C2-FA06-4A9E-9296-3F28359C0490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDAC8C2-FA06-4A9E-9296-3F28359C0490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{001180E8-B42F-483D-9CA9-0146C8D60D05} = {51E71F96-706F-4789-97E3-07AB0FEE1BF1}
+		{F3DC2B7F-FFCC-424E-ABFD-2163D4124060} = {4EB6876A-2D7B-4F36-8940-B204F6EC7483}
+		{5E8F2058-14DC-4756-89E8-8BA7EB9DC5A3} = {BDBF9206-5A22-42FA-92CB-A6F851CC1DA2}
+		{869BFD17-8CE1-4A2F-A876-A01155336945} = {A9B20A5A-E9E2-4A7A-A996-3515498FED89}
+		{B120D9C4-8DDB-465E-9CE0-5CE430FC4042} = {BF9256E6-4071-478A-A83C-9E5A7E8EC772}
+		{0EDAC8C2-FA06-4A9E-9296-3F28359C0490} = {4EB6876A-2D7B-4F36-8940-B204F6EC7483}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A9E3EF-22D0-4C60-94B1-A8EECDAF048D}
+	EndGlobalSection
+EndGlobal

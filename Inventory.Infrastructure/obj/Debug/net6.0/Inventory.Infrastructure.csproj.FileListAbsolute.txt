@@ -1,0 +1,11 @@
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\bin\Debug\net6.0\Inventory.Infrastructure.deps.json
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\bin\Debug\net6.0\Inventory.Infrastructure.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\bin\Debug\net6.0\Inventory.Infrastructure.pdb
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\Inventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\Inventory.Infrastructure.AssemblyInfo.cs
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\Inventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\Inventory.Infrastructure.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\refint\Inventory.Infrastructure.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\Inventory.Infrastructure.pdb
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Infrastructure\obj\Debug\net6.0\ref\Inventory.Infrastructure.dll

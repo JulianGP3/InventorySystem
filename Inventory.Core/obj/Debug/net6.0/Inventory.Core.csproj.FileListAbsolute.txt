@@ -1,0 +1,15 @@
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\bin\Debug\net6.0\Inventory.Core.deps.json
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\bin\Debug\net6.0\Inventory.Core.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\bin\Debug\net6.0\Inventory.Core.pdb
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\bin\Debug\net6.0\Inventory.Models.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\bin\Debug\net6.0\Inventory.Models.pdb
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.csproj.AssemblyReference.cache
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.AssemblyInfoInputs.cache
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.AssemblyInfo.cs
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.csproj.CoreCompileInputs.cache
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.csproj.CopyComplete
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\refint\Inventory.Core.dll
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\Inventory.Core.pdb
+C:\Users\julian.garcia\source\repos\Inventory\Inventory.Core\obj\Debug\net6.0\ref\Inventory.Core.dll
